@@ -4,6 +4,10 @@ A Rust rewrite of [fix-steam-blank-icon](https://github.com/mjawood/fix-steam-bl
 
 Ref: https://github.com/mrsimb/steam_blank_icon_fix
 
+## NOTE:
+
+This currently only supports Windows .url files, support for other operating systems may be added in the future.
+
 ## Usage
 
 ```cmd
