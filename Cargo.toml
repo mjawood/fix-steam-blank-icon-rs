@@ -3,6 +3,7 @@ name = "fix-steam-blank-icon-rs"
 version = "0.1.0"
 edition = "2024"
 description = "Fixes blank icons for Steam game shortcuts"
+license = "MIT"
 
 [profile.release]
 lto = true
