@@ -1,6 +1,6 @@
 # fix-steam-blank-icon-rs
 
-A Rust rewrite of [fix-steam-blank-icon](https://github.com/mjawood/fix-steam-blank-icon). Fixes blank icons for Steam game shortcuts.
+A Rust rewrite of [fix-steam-blank-icon](https://github.com/mjawood/fix-steam-blank-icon).
 
 Ref: https://github.com/mrsimb/steam_blank_icon_fix
 
